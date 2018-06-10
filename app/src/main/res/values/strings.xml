@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Bazaar</string>
+    <string name="THEMOVIEDB_API_KEY">352fcb5770f507f4b0eb763dfdbc5b44</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="top_rated_url_start">http://api.themoviedb.org/3/movie/top_rated?api_key=</string>
+    <string name="most_popular_url_start">http://api.themoviedb.org/3/movie/popular?api_key=</string>
+    <string name="poster_image_url_start">http://image.tmdb.org/t/p/w185/</string>
+    <string name="backbrop_url_start">http://image.tmdb.org/t/p/w780/</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="grid_image">Grid Image</string>
+    <string name="backdrop_image">Backdrop Image</string>
+    <string name="poster_image">Poster Image</string>
+</resources>
