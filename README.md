@@ -4,7 +4,7 @@
 
 ![banner](https://user-images.githubusercontent.com/20029287/46324719-881b4680-c612-11e8-92b6-5bb5882b2abd.jpg)
 
-# Sandwich Club Project
+# Popular-Movies-Stage-1
 
 ## Project Overview
 Most of us can relate to kicking back on the couch and enjoying a movie with friends and family. In this project, you’ll build an app to allow users to discover the most popular movies playing. We will split the development of this app in two stages. First, let's talk about stage 1.
